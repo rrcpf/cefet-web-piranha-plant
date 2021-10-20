@@ -1,0 +1,31 @@
+body {
+    font-size: 14px;
+    font-family:'Arial', sans-serif;  
+}
+h2 {
+    color:limegreen;
+    font-size: 22px;
+    font-family:'Times New Roman', serif;
+}
+blockquote {
+    margin-right: 60px;
+    font-style: italic;
+}
+q {
+    font-style: italic;
+}
+p {
+    text-align: justify;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px solid limegreen;
+    width: 300px;
+}
+#voce-sabia {
+    border: 3px solid limegreen;
+    padding: 10px;
+    background-image: url(../imagens/fundo.png);
+}
